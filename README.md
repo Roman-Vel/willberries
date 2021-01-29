@@ -1,10 +1,10 @@
-# willberries = учебный проект GLo-academy
+# willberries - учебный проект GLo-academy
 Выполнил проект Величко Роман
-В проекте ипользовались языки:
+## В проекте ипользовались языки:
 -HTML
 -css,less
 -JavaScript 
-# Библиотеки:
+### Библиотеки:
 -Bootstrap v5
 -Swiper Slider JS
 
